@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋</h1>
 
 <p align="left">
-Meu nome é Rafael Meurer e sou Dev DevOps Engineer | Cloud Engineer | AI Solutions Architect, de Joinville - SC 🇧🇷
+Meu nome é Rafael Wessling Meurer e sou Dev DevOps Engineer | Cloud Engineer | AI Solutions Architect, de Joinville - SC 🇧🇷
 </p>
 
 ---
@@ -9,9 +9,9 @@ Meu nome é Rafael Meurer e sou Dev DevOps Engineer | Cloud Engineer | AI Soluti
 <h2 align="left">Sobre mim</h2>
 
 <p align="left">
-✨ Criando soluções (e alguns bugs 😅) desde 2006<br>
-📚 Em constante evolução e aprendizado sobre IA (agents, RAG e aplicações práticas) código (vibe coding, uso dos LLMs), system design e muito mais<br>
-🎯 Objetivo: construir soluções cloud ou on-premise escaláveis, automatizar e integrar de forma segura e eficiente<br>
+✨ Criando soluções (e alguns bugs 😅) desde 2006.<br>
+📚 Em constante evolução e aprendizado sobre IA (agents, RAG e aplicações práticas) código (vibe coding, uso dos LLMs), system design e muito mais.<br>
+🎯 Objetivo: construir soluções cloud ou on-premise escaláveis, automatizar e integrar de forma segura e eficiente.<br>
 🎲 Curiosidade: um dev que por ser curioso e gostar de automatização migrou para devops, cloud e assim aprendendo mais do todo sobre sistemas.
 </p>
 
@@ -152,7 +152,7 @@ Experiência em desenvolvimento com Python, Progress, C#, Java, Node.js, JavaScr
 <h3 align="left">🔐 Segurança</h3>
 
 <p>
-Trivy, Snyk, SonarQube, Vault, OWASP
+Trivy, Snyk, SonarQube, Vault, OWASP.
 </p>
 
 ---
@@ -160,7 +160,7 @@ Trivy, Snyk, SonarQube, Vault, OWASP
 <h3 align="left">🤖 IA & Dados</h3>
 
 <p>
-Integrações com IA, RAG, embeddings, agentes, ClickHouse, Superset, Airbyte e pipelines de dados (ETL)
+Integrações com IA, RAG, embeddings, agentes, ClickHouse, Superset, Airbyte e pipelines de dados (ETL).
 </p>
 
 ---
@@ -168,9 +168,9 @@ Integrações com IA, RAG, embeddings, agentes, ClickHouse, Superset, Airbyte e 
 <h2 align="left">Extras</h2>
 
 <p align="left">
-🚀 Boa experiência com CI/CD, Docker, Kubernetes em ambientes on-premise e cloud<br>
-☁️ Principal atuação em AWS, on-premise com conhecimento em outros provedores<br>
-🤖 Integração de IA e automação de workflows<br>
-💻 Forte atuação conectando desenvolvimento e infraestrutura<br>
-📈 Foco em system design, automação e melhoria contínua
+🚀 Boa experiência com CI/CD, Docker, Kubernetes em ambientes on-premise e cloud.<br>
+☁️ Principal atuação em AWS, on-premise com conhecimento em outros provedores.<br>
+🤖 Integração de IA e automação de workflows.<br>
+💻 Forte atuação conectando desenvolvimento e infraestrutura.<br>
+📈 Foco em system design, automação e melhoria contínua.
 </p>
